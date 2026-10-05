@@ -3,8 +3,7 @@
 **TSYP14 Technical Challenge, "The Living Map: Spatial Memory for Emergency Robots", Phase 1.**
 Environment: **Mines / Tunnels**. Events: **methane gas** and **trapped victim**, plus the **collapsed floor** as a safety event.
 
-- Technical report (PDF): [`docs/EchoVein_Technical_Report.pdf`](docs/EchoVein_Technical_Report.pdf)
-- Simulation demo video: REPLACE-ME (video link)
+
 
 ![EchoVein system architecture](docs/diagrams/architecture.png)
 
