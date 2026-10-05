@@ -4,9 +4,6 @@
 Environment: **Mines / Tunnels**. Events: **methane gas** and **trapped victim**, plus the **collapsed floor** as a safety event.
 
 
-
-![EchoVein system architecture](docs/diagrams/architecture.png)
-
 ## Overview
 
 A methane explosion collapses part of a gallery and a miner is trapped. Underground there is no GPS, and rock blocks
